@@ -1,7 +1,7 @@
 wordpress: Advanced Lazy-Load
 ============================
+Version 1.5.1   
 WordPress:   https://wordpress.org/plugins/advanced-lazy-load/
-Version 1.5.1
 
 WordPress plugin, advanced-lazy-load
 
